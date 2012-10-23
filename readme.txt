@@ -6,3 +6,4 @@ ChangeAfterCheckout
 Bug fixed
 Change5
 Second bug fixed
+TestNewFeature
