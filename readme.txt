@@ -9,4 +9,4 @@ Second bug fixed
 TestNewFeature
 NewMenuAdded
 OldTerminal
-
+OtherTerminal
